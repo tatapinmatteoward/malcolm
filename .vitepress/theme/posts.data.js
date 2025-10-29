@@ -2,42 +2,42 @@ export default {
   load() {
     return [
     {
-        "url": "/blog/how-to-fix-bsod-windows-10",
-        "title": "How to Fix Blue Screen of Death (BSOD) on Windows 10: Ultimate Guide",
-        "excerpt": "Tired of BSOD on Windows 10? Learn effective fixes for common Blue Screen of Death errors, from updating drivers to system recovery.",
-        "date": "2023-10-15",
+        "url": "/blog/natural-headache-remedies-essential-oils",
+        "title": "Top Natural Headache Remedies Using Essential Oils: Your Complete Guide",
+        "excerpt": "Discover effective, all-natural ways to alleviate headaches with essential oils. From peppermint to lavender, learn safe application methods and DIY blends for fast relief at Nature's Remedy Hub.",
+        "date": "2023-10-01",
         "tags": [
-            "Windows 10",
-            "BSOD",
-            "Troubleshooting",
-            "PC Fixes",
-            "System Errors"
+            "essential oils",
+            "headache remedies",
+            "natural health",
+            "aromatherapy",
+            "holistic wellness"
         ]
     },
     {
-        "url": "/blog/quick-fixes-macos-app-crashes-freezes",
-        "title": "Quick Fixes for macOS App Crashes and Freezes: Boost Your Mac's Performance",
-        "excerpt": "Struggling with macOS apps crashing or freezing? Discover simple, effective solutions to troubleshoot and prevent these issues, keeping your Mac running smoothly.",
+        "url": "/blog/herbal-teas-for-digestive-health",
+        "title": "Top Herbal Teas for Digestive Health: Natural Remedies for a Happier Gut",
+        "excerpt": "Discover soothing herbal teas that can improve digestion, reduce bloating, and promote gut health naturally. Perfect for those seeking alternatives to modern medicine.",
         "date": "2023-10-05",
         "tags": [
-            "macOS",
-            "troubleshooting",
-            "app crashes",
-            "mac tips",
-            "software fixes"
+            "herbal tea",
+            "digestive health",
+            "natural remedies",
+            "gut health",
+            "nutrition"
         ]
     },
     {
-        "url": "/blog/fix-startup-issues-windows-macos",
-        "title": "Fix Startup Issues on Windows and macOS: Ultimate Troubleshooting Guide",
-        "excerpt": "Struggling with slow boot times or failed startups on Windows or macOS? Discover expert tips to diagnose and resolve common startup problems quickly and efficiently.",
-        "date": "2023-10-05",
+        "url": "/blog/aromatherapy-and-yoga-for-stress-relief",
+        "title": "The Ultimate Guide to Aromatherapy and Yoga for Stress Relief",
+        "excerpt": "Discover how combining aromatherapy and yoga can naturally alleviate stress. Learn essential oils, poses, and routines to achieve inner peace and wellness.",
+        "date": "2023-10-15T00:00:00Z",
         "tags": [
-            "Windows",
-            "macOS",
-            "troubleshooting",
-            "startup issues",
-            "tech fixes"
+            "aromatherapy",
+            "yoga",
+            "stress relief",
+            "natural remedies",
+            "wellness"
         ]
     }
 ]
