@@ -1,6 +1,6 @@
 ---
 title: Blog
-description: Latest articles and updates from Techfix Guru
+description: Latest articles and updates from Nature'S Remedy Hub
 ---
 
 # Blog
