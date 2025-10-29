@@ -1,23 +1,23 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "Techfix Guru",
-  description: "TechFix Guru is a modern blog dedicated to demystifying common tech errors on Windows and macOS systems. Offering clear, step-by-step guides to troubleshoot and resolve issues faced by everyday users, we cover random but prevalent topics like blue screen errors, software crashes, and startup problems to empower readers with quick fixes.",
+  title: "Nature'S Remedy Hub",
+  description: "A modern blog website dedicated to alternative natural medicine, offering step-by-step solutions using nature's remedies to address common health problems. Explore practical guides and holistic approaches for a balanced life.",
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Blog', link: '/blog/' },
-      { text: 'About', link: '/about/' },
-      { text: 'Contact', link: '/contact/' }
+      { text: 'Blog', link: '/blog' },
+      { text: 'About Us', link: '/about-us' },
+      { text: 'Contact', link: '/contact' }
     ],
     socialLinks: [],
     footer: {
       message: 'Built with VitePress & AI',
-      copyright: `Copyright © ${new Date().getFullYear()} Techfix Guru`
+      copyright: `Copyright © ${new Date().getFullYear()} Nature'S Remedy Hub`
     }
   },
   head: [
-    ['meta', { name: 'theme-color', content: '#1E90FF' }],
+    ['meta', { name: 'theme-color', content: '#4CAF50' }],
     ['link', { rel: 'stylesheet', href: '/styles.css' }]
   ],
   appearance: 'dark',
